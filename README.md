@@ -1,6 +1,6 @@
 # Music Recommendation Reinforcement Learning Algorithms
 
-Welcome to the Music Recommendation Reinforcement Learning Algorithms repository! This project showcases the implementation of two distinct Reinforcement Learning (RL) algorithms, namely Q-learning and Deep Q-Network (DQN). The work presented here was undertaken as part of a project at the Faculty of Mathematics and Informatics, University of Bucharest.
+Welcome to the Music Recommendation Reinforcement Learning Algorithms repository! This project showcases the implementation of two distinct Reinforcement Learning (RL) algorithms, namely Q-learning and Dueling Deep Q-Network (DDQN). The work presented here was undertaken as part of a project at the Faculty of Mathematics and Informatics, University of Bucharest.
 
 ## Overview
 
@@ -9,5 +9,5 @@ In this repository, we leverage RL techniques to enhance the music recommendatio
 ## Contents
 
 - **Q-learning:** Implementation and demonstration of the Q-learning algorithm for music recommendation.
-- **DQN (Deep Q-Network):** Implementation and showcase of the Deep Q-Network algorithm for improved music recommendations.
+- **DDQN (Dueling Deep Q-Network):** Implementation and showcase of the Dueling Deep Q-Network algorithm for improved music recommendations.
 - **Data:** The dataset sourced from the Deezer API, organized in a CSV format for easy accessibility.
